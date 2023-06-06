@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <MyInfo>
+    <Address>
+      <City>Ho Chi Minh City</City>
+      <District>Phu Nhuan District</District>
+    </Address>
+  </MyInfo>
+</configuration>
